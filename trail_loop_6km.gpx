@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="TerraPulse CLI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>6.5km Fall Foliage Loop</name>
+    <time>2026-10-08T00:08:13.521151</time>
+  </metadata>
+  <trk>
+    <name>6.5km Nature Run / Hike</name>
+    <trkseg>
+      <trkpt lat="44.188000" lon="-73.972016"><ele>320</ele></trkpt>
+      <trkpt lat="44.190632" lon="-73.970702"><ele>339</ele></trkpt>
+      <trkpt lat="44.193381" lon="-73.971350"><ele>358</ele></trkpt>
+      <trkpt lat="44.195356" lon="-73.974076"><ele>374</ele></trkpt>
+      <trkpt lat="44.196058" lon="-73.977868"><ele>387</ele></trkpt>
+      <trkpt lat="44.195814" lon="-73.981459"><ele>396</ele></trkpt>
+      <trkpt lat="44.195467" lon="-73.984345"><ele>399</ele></trkpt>
+      <trkpt lat="44.195601" lon="-73.987022"><ele>398</ele></trkpt>
+      <trkpt lat="44.196005" lon="-73.990254"><ele>392</ele></trkpt>
+      <trkpt lat="44.195865" lon="-73.994074"><ele>381</ele></trkpt>
+      <trkpt lat="44.194514" lon="-73.997503"><ele>367</ele></trkpt>
+      <trkpt lat="44.192048" lon="-73.999257"><ele>349</ele></trkpt>
+      <trkpt lat="44.189253" lon="-73.998830"><ele>330</ele></trkpt>
+      <trkpt lat="44.186919" lon="-73.996934"><ele>309</ele></trkpt>
+      <trkpt lat="44.185193" lon="-73.994888"><ele>290</ele></trkpt>
+      <trkpt lat="44.183568" lon="-73.993507"><ele>272</ele></trkpt>
+      <trkpt lat="44.181517" lon="-73.992479"><ele>258</ele></trkpt>
+      <trkpt lat="44.179157" lon="-73.990803"><ele>247</ele></trkpt>
+      <trkpt lat="44.177310" lon="-73.987844"><ele>241</ele></trkpt>
+      <trkpt lat="44.176882" lon="-73.984025"><ele>240</ele></trkpt>
+      <trkpt lat="44.178104" lon="-73.980516"><ele>243</ele></trkpt>
+      <trkpt lat="44.180336" lon="-73.978217"><ele>252</ele></trkpt>
+      <trkpt lat="44.182609" lon="-73.976993"><ele>265</ele></trkpt>
+      <trkpt lat="44.184410" lon="-73.975893"><ele>281</ele></trkpt>
+      <trkpt lat="44.186002" lon="-73.974145"><ele>300</ele></trkpt>
+      <trkpt lat="44.188000" lon="-73.972016"><ele>320</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
