@@ -1,1 +1,1 @@
-# Touch-Grass
+# Touch-Grass AI
